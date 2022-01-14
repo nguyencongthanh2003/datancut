@@ -38,39 +38,11 @@
     display: flex;
     margin: 10px;
 }
-.cardPhim1 img{
+.cardPhim img{
     width: 200px;
-}
-.cardPhim2 img{
-    width: 200px;
-    padding-top: 165px;
-}
-.cardPhim3 img{
-    width: 210px;
-}
-.cardPhim4 img{
-    width: 200px;
-    padding-top: 140px;
-}
-.cardPhim5 img{
-    width: 188px;
+
 }
 .cardPhim{
-    margin: 20px;
-}
-.cardPhim1{
-    margin: 10px;
-}
-.cardPhim2{
-    margin: 10px;
-}
-.cardPhim3{
-    margin: 10px;
-}
-.cardPhim4{
-    margin: 10px;
-}
-.cardPhim5{
     margin: 10px;
 }
 .main_card p{
@@ -85,6 +57,10 @@
 }
 .congThanh{
     margin: 10px;
+}
+.main_card{
+    width: 200px;
+
 }
 
 
